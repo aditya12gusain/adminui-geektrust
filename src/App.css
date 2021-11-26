@@ -1,0 +1,26 @@
+.admin-wrp {
+  margin-top: 20px;
+}
+
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}
+
+.operation {
+  display: flex;
+}
+
+.delete-btn {
+  padding-left: 10px;
+}
+
+.delete-selected-btn {
+  border-radius: 12px;
+}
+
+.ant-table-tbody > tr.ant-table-row-selected > td,
+.ant-table-tbody > tr.ant-table-row-selected:hover > td {
+  background: #eee;
+}

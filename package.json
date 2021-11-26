@@ -2,7 +2,7 @@
   "name": "geektrust-adminui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://denishrana09.github.io/geektrust-adminui",
+  "homepage": "http://aditya12gusain.github.io/adminui-geektrust",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@testing-library/jest-dom": "^5.11.4",

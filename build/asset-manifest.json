@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geektrust-adminui/static/css/main.91ecd350.chunk.css",
+    "main.js": "/geektrust-adminui/static/js/main.bd90a151.chunk.js",
+    "main.js.map": "/geektrust-adminui/static/js/main.bd90a151.chunk.js.map",
+    "runtime-main.js": "/geektrust-adminui/static/js/runtime-main.d4f318d3.js",
+    "runtime-main.js.map": "/geektrust-adminui/static/js/runtime-main.d4f318d3.js.map",
+    "static/css/2.4dca5ddc.chunk.css": "/geektrust-adminui/static/css/2.4dca5ddc.chunk.css",
+    "static/js/2.43ca5e30.chunk.js": "/geektrust-adminui/static/js/2.43ca5e30.chunk.js",
+    "static/js/2.43ca5e30.chunk.js.map": "/geektrust-adminui/static/js/2.43ca5e30.chunk.js.map",
+    "index.html": "/geektrust-adminui/index.html",
+    "static/css/2.4dca5ddc.chunk.css.map": "/geektrust-adminui/static/css/2.4dca5ddc.chunk.css.map",
+    "static/css/main.91ecd350.chunk.css.map": "/geektrust-adminui/static/css/main.91ecd350.chunk.css.map",
+    "static/js/2.43ca5e30.chunk.js.LICENSE.txt": "/geektrust-adminui/static/js/2.43ca5e30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f318d3.js",
+    "static/css/2.4dca5ddc.chunk.css",
+    "static/js/2.43ca5e30.chunk.js",
+    "static/css/main.91ecd350.chunk.css",
+    "static/js/main.bd90a151.chunk.js"
+  ]
+}
